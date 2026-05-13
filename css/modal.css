@@ -132,12 +132,6 @@ body.is-modal-open {
   outline: none;
 }
 
-.modal-field-input:focus .modal-wrapper-input-icon {
-}
-
-.comment-modal-input {
-}
-
 .comment-modal-area {
   width: 100%;
   min-height: 120px;

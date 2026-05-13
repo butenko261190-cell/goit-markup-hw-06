@@ -496,8 +496,6 @@ body.is-menu-open .contacts-link {
   opacity: 0.9;
 }
 
-.portfolio-item-link {
-}
 .portfolio-item-top {
   position: relative;
   overflow: hidden;
@@ -563,8 +561,7 @@ body.is-menu-open .contacts-link {
   display: inline-block;
   margin-bottom: 16px;
 }
-.footer-container {
-}
+
 .footer-text {
   text-align: center;
   color: #f4f4fd;
